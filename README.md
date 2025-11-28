@@ -1,4 +1,4 @@
-FRESH FRUIT AND VEGETABLE SPOILAGE DETECTION SYSTEM
+### FRESH FRUIT AND VEGETABLE SPOILAGE DETECTION SYSTEM
 About:
 The Food Spoilage Detection project leverages computer vision and deep learning to automatically identify spoiled food items from images. Using a Vision Transformer (ViT) model, the system classifies images of fruits and vegetables as fresh or spoiled. This project provides a real-time, automated, and reliable method for monitoring food quality, reducing wastage, and enhancing food safety.
 
